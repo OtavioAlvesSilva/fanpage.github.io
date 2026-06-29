@@ -760,6 +760,7 @@ header ul .line:hover {
 
     .banner_album_tittle h1 {
         font-size: 20px;
+        margin-bottom: 40px;
     }
 
     .banner_album_body {
@@ -768,11 +769,15 @@ header ul .line:hover {
         margin-top: 10px;
     }
 
+    .banner_album_img {
+        display: none;
+    }
+
     .banner_album_img img {
         margin-top: 0px;
         padding-top: 0px;
-        height: 300px;
-        width: 300px;
+        height: 100px;
+        width: 100px;
     }
 
     .banner_album_spotify {
