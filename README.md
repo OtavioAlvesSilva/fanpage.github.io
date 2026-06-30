@@ -53,8 +53,6 @@ otavioalvessilva.github.io/
 ├── Nav.png
 └── Spotify.png
 
-text
-
 ---
 
 ## 🎯 Objetivos do Projeto
