@@ -1,6 +1,6 @@
 # 🎵 Daniel Caesar - Fan Page
 
-🌐 **Live Demo:** [Click here to visit the site](https://otavioalvessilva.github.io/)
+🌐 **Live Demo:** [Click here to visit the site](https://otavioalvessilva.github.io/fanpage/)
 
 ---
 
@@ -30,10 +30,12 @@ This is a fan page dedicated to the Canadian singer **Daniel Caesar**, developed
 | JavaScript | Hamburger menu and interactions |
 | Spotify Embed | Integrated music player |
 
+---
+
 ## 📂 Project Structure
 
 ```
-otavioalvessilva.github.io/
+fanpage/
 ├── index.html              # Main page
 ├── LICENSE                 # MIT License
 ├── README.md               # This file
@@ -54,6 +56,8 @@ otavioalvessilva.github.io/
         └── Spotify.png
 ```
 
+---
+
 ## 🎯 Project Goals
 
 - Apply semantic HTML knowledge
@@ -71,14 +75,6 @@ The website was built with all devices in mind:
 - 💻 Desktop
 - 📟 Tablet
 - 📱 Smartphones
-
----
-
-## 🔗 Important Links
-
-- **Hosted Site:** [https://otavioalvessilva.github.io](https://otavioalvessilva.github.io)
-- **Repository:** [https://github.com/OtavioAlvesSilva/otavioalvessilva.github.io](https://github.com/OtavioAlvesSilva/otavioalvessilva.github.io)
-- **Artist's Social Media:** All icons in the "Social Media" section link to Daniel Caesar's official profiles
 
 ---
 
