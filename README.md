@@ -1,6 +1,6 @@
 # 🎵 Daniel Caesar - Fan Page
 
-🌐 **Live Demo:** [Click here to visit the site](https://otavioalvessilva.github.io)
+🌐 **Live Demo:** [Click here to visit the site](https://otavioalvessilva.github.io/)
 
 ---
 
